@@ -49,6 +49,8 @@ Se ha diseñado la aplicación interactiva utilizando la librería Streamlit. Se
 
 Publica la aplicación en Streamlit Cloud, en Heroku o en el servicio que prefieras https://docs.streamlit.io/streamlit-community-cloud/get-started/deploy-an-app
 
+LInk: https://wailo00-streamlit-2---cuadro-de-mandos-personal01-wa-app-tcvisr.streamlit.app/
+
 ## CONCLUSION
 
 En conclusión, este proyecto me ha permitido aplicar los conocimientos adquiridos en el análisis y visualización de datos mediante el uso de la librería Pandas y las herramientas de visualización como Matplotlib y Altair. Además, he aprendido cómo utilizar Streamlit para diseñar una aplicación interactiva y fácil de usar para la exploración de datos.
